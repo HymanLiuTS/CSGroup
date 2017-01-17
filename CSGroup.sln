@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaTs", "LambdaTs\LambdaTs.csproj", "{6F851567-483B-4D44-B0B4-1DD458C837D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerableTs", "IEnumerableTs\IEnumerableTs.csproj", "{6A37C109-8994-4A7C-807F-2ADE85C776F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{6F851567-483B-4D44-B0B4-1DD458C837D2}.Debug|x86.Build.0 = Debug|x86
 		{6F851567-483B-4D44-B0B4-1DD458C837D2}.Release|x86.ActiveCfg = Release|x86
 		{6F851567-483B-4D44-B0B4-1DD458C837D2}.Release|x86.Build.0 = Release|x86
+		{6A37C109-8994-4A7C-807F-2ADE85C776F3}.Debug|x86.ActiveCfg = Debug|x86
+		{6A37C109-8994-4A7C-807F-2ADE85C776F3}.Debug|x86.Build.0 = Debug|x86
+		{6A37C109-8994-4A7C-807F-2ADE85C776F3}.Release|x86.ActiveCfg = Release|x86
+		{6A37C109-8994-4A7C-807F-2ADE85C776F3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
