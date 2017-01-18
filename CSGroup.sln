@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaTs", "LambdaTs\Lambda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerableTs", "IEnumerableTs\IEnumerableTs.csproj", "{6A37C109-8994-4A7C-807F-2ADE85C776F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldTs", "YieldTs\YieldTs.csproj", "{47E2DB23-D262-453C-806A-CF7504326AEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{6A37C109-8994-4A7C-807F-2ADE85C776F3}.Debug|x86.Build.0 = Debug|x86
 		{6A37C109-8994-4A7C-807F-2ADE85C776F3}.Release|x86.ActiveCfg = Release|x86
 		{6A37C109-8994-4A7C-807F-2ADE85C776F3}.Release|x86.Build.0 = Release|x86
+		{47E2DB23-D262-453C-806A-CF7504326AEB}.Debug|x86.ActiveCfg = Debug|x86
+		{47E2DB23-D262-453C-806A-CF7504326AEB}.Debug|x86.Build.0 = Debug|x86
+		{47E2DB23-D262-453C-806A-CF7504326AEB}.Release|x86.ActiveCfg = Release|x86
+		{47E2DB23-D262-453C-806A-CF7504326AEB}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
